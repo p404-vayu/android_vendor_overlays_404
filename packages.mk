@@ -23,4 +23,18 @@ PRODUCT_PACKAGES += \
     FontPoppinsOverlay \
     FontWorkSansOverlay \
     FontSatoshiOverlay \
-    FontSourceCodeProOverlay
+    FontSourceCodeProOverlay \
+    ClockFontAlienLeagueOverlay \
+    ClockFontBalticBoddenOverlay \
+    ClockFontBalticStormOverlay \
+    ClockFontBigNoodleTiltingOverlay \
+    ClockFontMXWasgardOverlay \
+    ClockFontProdeltCoOverlay \
+    ClockFontRoadRageOverlay \
+    ClockFontTourneyMediumOverlay \
+    ClockFontZeroFourOverlay \
+    ClockFontCatOverlay \
+    ClockFontConcentrateOverlay \
+    ClockFontKarmaticArcadeOverlay \
+    ClockFontLiquidCrystalOverlay \
+    ClockFontVG5000Overlay

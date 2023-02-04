@@ -37,4 +37,19 @@ PRODUCT_PACKAGES += \
     ClockFontConcentrateOverlay \
     ClockFontKarmaticArcadeOverlay \
     ClockFontLiquidCrystalOverlay \
-    ClockFontVG5000Overlay
+    ClockFontVG5000Overlay \
+    DateFontAlienLeagueOverlay \
+    DateFontBalticBoddenOverlay \
+    DateFontBalticStormOverlay \
+    DateFontBigNoodleTiltingOverlay \
+    DateFontMXWasgardOverlay \
+    DateFontProdeltCoOverlay \
+    DateFontRoadRageOverlay \
+    DateFontTourneyMediumOverlay \
+    DateFontZeroFourOverlay \
+    DateFontCatOverlay \
+    DateFontConcentrateOverlay \
+    DateFontKarmaticArcadeOverlay \
+    DateFontLiquidCrystalOverlay \
+    DateFontGoogleSansOverlay \
+    DateFontVG5000Overlay

@@ -52,4 +52,26 @@ PRODUCT_PACKAGES += \
     DateFontKarmaticArcadeOverlay \
     DateFontLiquidCrystalOverlay \
     DateFontGoogleSansOverlay \
-    DateFontVG5000Overlay
+    DateFontVG5000Overlay \
+    IconPackCircularAndroidOverlay \
+    IconPackCircularSystemUIOverlay \
+    IconPackVictorAndroidOverlay \
+    IconPackVictorSystemUIOverlay \
+    IconPackSamAndroidOverlay \
+    IconPackSamSystemUIOverlay \
+    IconPackKaiAndroidOverlay \
+    IconPackKaiSystemUIOverlay \
+    IconPackFilledAndroidOverlay \
+    IconPackFilledSystemUIOverlay \
+    IconPackPUIAndroidOverlay \
+    IconPackPUISystemUIOverlay \
+    IconPackRoundedAndroidOverlay \
+    IconPackRoundedSystemUIOverlay \
+    IconPackOOSAndroidOverlay \
+    IconPackOOSSystemUIOverlay \
+    IconPackOutlineAndroidOverlay \
+    IconPackOutlineSystemUIOverlay \
+    IconPackAcherusAndroidOverlay \
+    IconPackAcherusSystemUIOverlay \
+    IconPackXperiaAndroidOverlay \
+    IconPackXperiaSystemUIOverlay \
